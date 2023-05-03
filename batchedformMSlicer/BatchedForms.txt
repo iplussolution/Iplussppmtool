@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Body>
+        <ns1:getByPeriodResponse xmlns:ns1="http://twm.ncs.gov.ng/formm/xsd">
+            <ns1:formMsAlreadyDownloaded>
+                <ns1:INF>
+                    <ns1:FRX>1</ns1:FRX>
+                    <ns1:YEA>2020</ns1:YEA>
+                    <ns1:SER>MF20200000429</ns1:SER>
+                    <ns1:PFX>BA</ns1:PFX>
+                    <ns1:BNK>
+                        <ns1:CODE>033</ns1:CODE>
+                        <ns1:COD>03320200000047</ns1:COD>
+                        <ns1:BRA>33152666</ns1:BRA>
+                    </ns1:BNK>
+                    <ns1:VLD>2021-08-03</ns1:VLD>
+                </ns1:INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-07-10T13:55:17.716+01:00</ns1:DAT>
+                    <ns1:USR>UBA Bank Plc 002 TEST ( UBA Bank Plc )</ns1:USR>
+                    <ns1:OPR>Submit</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-08T16:44:34.295+01:00</ns1:DAT>
+                    <ns1:USR>UBA Bank Plc 001 TEST ( UBA Bank Plc )</ns1:USR>
+                    <ns1:OPR>Validate</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-26T17:04:44.463+01:00</ns1:DAT>
+                    <ns1:USR>WF Support ( Nigerian Customs Service )</ns1:USR>
+                    <ns1:OPR>Register</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+            </ns1:formMsAlreadyDownloaded>
+            <ns1:formMsAlreadyDownloaded>
+                <ns1:INF>
+                    <ns1:FRX>1</ns1:FRX>
+                    <ns1:YEA>2020</ns1:YEA>
+                    <ns1:SER>MF20200000430</ns1:SER>
+                    <ns1:PFX>BA</ns1:PFX>
+                    <ns1:BNK>
+                        <ns1:CODE>033</ns1:CODE>
+                        <ns1:COD>03320200000044</ns1:COD>
+                        <ns1:BRA>33152666</ns1:BRA>
+                    </ns1:BNK>
+                    <ns1:VLD>2021-07-05</ns1:VLD>
+                </ns1:INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-07-10T14:33:37.462+01:00</ns1:DAT>
+                    <ns1:USR>UBA Bank Plc 002 TEST ( UBA Bank Plc )</ns1:USR>
+                    <ns1:OPR>Submit</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-07-10T19:02:31.872+01:00</ns1:DAT>
+                    <ns1:USR>UBA Bank Plc 001 TEST ( UBA Bank Plc )</ns1:USR>
+                    <ns1:OPR>Validate</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-26T17:04:35.514+01:00</ns1:DAT>
+                    <ns1:USR>WF Support ( Nigerian Customs Service )</ns1:USR>
+                    <ns1:OPR>Register</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+            </ns1:formMsAlreadyDownloaded>
+            <ns1:formMsAlreadyDownloaded>
+                <ns1:INF>
+                    <ns1:FRX>1</ns1:FRX>
+                    <ns1:YEA>2020</ns1:YEA>
+                    <ns1:SER>MF20200000463</ns1:SER>
+                    <ns1:PFX>BA</ns1:PFX>
+                    <ns1:BNK>
+                        <ns1:CODE>033</ns1:CODE>
+                        <ns1:COD>03320200000067</ns1:COD>
+                        <ns1:BRA>33152666</ns1:BRA>
+                    </ns1:BNK>
+                    <ns1:VLD>2021-08-20</ns1:VLD>
+                </ns1:INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-25T00:11:58.101+01:00</ns1:DAT>
+                    <ns1:USR>UBA Bank Plc 002 TEST ( UBA Bank Plc )</ns1:USR>
+                    <ns1:OPR>Submit</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-25T01:00:46.228+01:00</ns1:DAT>
+                    <ns1:USR>UBA Bank Plc 001 TEST ( UBA Bank Plc )</ns1:USR>
+                    <ns1:OPR>Validate</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-26T17:04:28.629+01:00</ns1:DAT>
+                    <ns1:USR>WF Support ( Nigerian Customs Service )</ns1:USR>
+                    <ns1:OPR>Register</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+            </ns1:formMsAlreadyDownloaded>
+            <ns1:formMsAlreadyDownloaded>
+                <ns1:INF>
+                    <ns1:FRX>1</ns1:FRX>
+                    <ns1:YEA>2020</ns1:YEA>
+                    <ns1:SER>MF20200000428</ns1:SER>
+                    <ns1:PFX>BA</ns1:PFX>
+                    <ns1:BNK>
+                        <ns1:CODE>033</ns1:CODE>
+                        <ns1:COD>03320200000048</ns1:COD>
+                        <ns1:BRA>33152666</ns1:BRA>
+                    </ns1:BNK>
+                    <ns1:VLD>2021-08-05</ns1:VLD>
+                </ns1:INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-07-10T13:42:21.497+01:00</ns1:DAT>
+                    <ns1:USR>UBA Bank Plc 002 TEST ( UBA Bank Plc )</ns1:USR>
+                    <ns1:OPR>Submit</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-10T11:12:36.755+01:00</ns1:DAT>
+                    <ns1:USR>UBA Bank Plc 001 TEST ( UBA Bank Plc )</ns1:USR>
+                    <ns1:OPR>Validate</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-26T17:04:50.850+01:00</ns1:DAT>
+                    <ns1:USR>WF Support ( Nigerian Customs Service )</ns1:USR>
+                    <ns1:OPR>Register</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2021-05-05T05:45:08.217+01:00</ns1:DAT>
+                    <ns1:USR>SW Processing Daemon ( TWM )</ns1:USR>
+                    <ns1:OPR>RAR Lock</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+            </ns1:formMsAlreadyDownloaded>
+            <ns1:formMsAlreadyDownloaded>
+                <ns1:INF>
+                    <ns1:FRX>1</ns1:FRX>
+                    <ns1:YEA>2020</ns1:YEA>
+                    <ns1:SER>MF20200000467</ns1:SER>
+                    <ns1:PFX>BA</ns1:PFX>
+                    <ns1:BNK>
+                        <ns1:CODE>033</ns1:CODE>
+                        <ns1:COD>03320200000069</ns1:COD>
+                        <ns1:BRA>33152666</ns1:BRA>
+                    </ns1:BNK>
+                    <ns1:VLD>2021-08-21</ns1:VLD>
+                </ns1:INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-26T00:13:19.588+01:00</ns1:DAT>
+                    <ns1:USR>UBA Bank Plc 002 TEST ( UBA Bank Plc )</ns1:USR>
+                    <ns1:OPR>Submit</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-26T12:12:06.375+01:00</ns1:DAT>
+                    <ns1:USR>UBA Bank Plc 001 TEST ( UBA Bank Plc )</ns1:USR>
+                    <ns1:OPR>Validate</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-26T17:04:07.901+01:00</ns1:DAT>
+                    <ns1:USR>WF Support ( Nigerian Customs Service )</ns1:USR>
+                    <ns1:OPR>Register</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+            </ns1:formMsAlreadyDownloaded>
+            <ns1:formMsAlreadyDownloaded>
+                <ns1:INF>
+                    <ns1:FRX>1</ns1:FRX>
+                    <ns1:YEA>2020</ns1:YEA>
+                    <ns1:SER>MF20200000466</ns1:SER>
+                    <ns1:PFX>BA</ns1:PFX>
+                    <ns1:BNK>
+                        <ns1:CODE>033</ns1:CODE>
+                        <ns1:COD>03320200000068</ns1:COD>
+                        <ns1:BRA>33152666</ns1:BRA>
+                    </ns1:BNK>
+                    <ns1:VLD>2021-08-20</ns1:VLD>
+                </ns1:INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-25T20:36:37.361+01:00</ns1:DAT>
+                    <ns1:USR>UBA Bank Plc 002 TEST ( UBA Bank Plc )</ns1:USR>
+                    <ns1:OPR>Submit</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-25T23:44:18.993+01:00</ns1:DAT>
+                    <ns1:USR>UBA Bank Plc 001 TEST ( UBA Bank Plc )</ns1:USR>
+                    <ns1:OPR>Validate</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+                <ns1:SUP_INF>
+                    <ns1:DAT>2020-08-26T17:04:20.175+01:00</ns1:DAT>
+                    <ns1:USR>WF Support ( Nigerian Customs Service )</ns1:USR>
+                    <ns1:OPR>Register</ns1:OPR>
+                    <ns1:MSG></ns1:MSG>
+                </ns1:SUP_INF>
+            </ns1:formMsAlreadyDownloaded>
+        </ns1:getByPeriodResponse>
+    </soapenv:Body>
+	</soapenv:Envelope>
+	

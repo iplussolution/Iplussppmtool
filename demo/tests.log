@@ -1,0 +1,7 @@
+260  [main] INFO  CBNLicenceMockPush - Example log from LoggerDemo
+974  [restartedMain] INFO  CBNLicenceMockPush.FormsPusher - Starting FormsPusher using Java 1.8.0_161 on ISW-GSDEFT-OO with PID 26764 (C:\Users\opeyemi.ojeyinka\IdeaProjects\demo\target\classes started by opeyemi.ojeyinka in C:\Users\opeyemi.ojeyinka\IdeaProjects\demo)
+976  [restartedMain] INFO  CBNLicenceMockPush.FormsPusher - No active profile set, falling back to default profiles: default
+3599 [restartedMain] INFO  CBNLicenceMockPush.FormsPusher - Started FormsPusher in 3.029 seconds (JVM running for 5.5)
+1281 [restartedMain] INFO  CBNLicenceMockPush.FormsPusher - Starting FormsPusher using Java 1.8.0_161 on ISW-GSDEFT-OO with PID 24728 (C:\Users\opeyemi.ojeyinka\IdeaProjects\demo\target\classes started by opeyemi.ojeyinka in C:\Users\opeyemi.ojeyinka\IdeaProjects\demo)
+1284 [restartedMain] INFO  CBNLicenceMockPush.FormsPusher - No active profile set, falling back to default profiles: default
+3751 [restartedMain] INFO  CBNLicenceMockPush.FormsPusher - Started FormsPusher in 3.041 seconds (JVM running for 5.862)
